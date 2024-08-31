@@ -1,0 +1,12 @@
+div {
+	height: 400px;
+	width: 600px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	translate: -50% -50%;
+	border: 1px solid;
+	border-radius: 10px;
+	background-color: burlywood;
+	box-shadow: 2px 2px 20px;
+}
